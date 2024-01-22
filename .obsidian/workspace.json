@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/不喜欢我的.md",
+                "file": "【本周更新】/请假.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,12 +39,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "阿拉伯国家",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/不喜欢我的.md",
+                "file": "【本周更新】/请假.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "19c56229720e87da",
   "lastOpenFiles": [
+    "【本周更新】/落草为王.md",
+    "待归档/阿拉伯国家.md",
+    "【文章目录】/【7 - 世界史地】/730 - 亚洲史地/735 - 中东/巴以.md",
+    "待归档/ai轻应用.md",
+    "【本周更新】/不贰过.md",
+    "【本周更新】/不喜欢我的.md",
     "转载授权/default.md",
     "【文章目录】/【10 - 专题类】/杂论/黄永玉.md",
     "【文章目录】/【10 - 专题类】/杂论/顶级享受 2.md",
@@ -163,12 +169,6 @@
     "【文章目录】/【10 - 专题类】/俄乌战争/豹二.md",
     "【文章目录】/【10 - 专题类】/俄乌战争/袭击敖德萨 2.md",
     "【文章目录】/【10 - 专题类】/俄乌战争/袭击敖德萨 1.md",
-    "【文章目录】/【10 - 专题类】/俄乌战争/被撕毁的协议.md",
-    "【文章目录】/【10 - 专题类】/俄乌战争/红场讲话.md",
-    "【文章目录】/【10 - 专题类】/俄乌战争/热平账.md",
-    "【文章目录】/【10 - 专题类】/俄乌战争/火候.md",
-    "【文章目录】/【10 - 专题类】/俄乌战争/泽连斯基 2.md",
-    "【文章目录】/【10 - 专题类】/俄乌战争/泽连斯基 1.md",
     "Sth-Matters/【文章目录】/【0 - 总类】/000 - 特藏 - 致读者",
     "Sth-Matters/【文章目录】/【0 - 总类】",
     "Sth-Matters/【文章目录】",
