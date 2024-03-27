@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c040762c36f1e528",
+        "id": "82dbd7aaf9e8f9e1",
         "type": "tabs",
         "children": [
           {
-            "id": "efd7a25d374cb5e1",
+            "id": "e76e19de5e71cb5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/缅甸停战.md",
+                "file": "沙海拾金/泛讨论/泛讨论_Gap year.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阿拉伯国家",
+                "query": "tag:#【答集】",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -76,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50247192382812
+    "width": 331.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/缅甸停战.md",
+                "file": "沙海拾金/泛讨论/泛讨论_Gap year.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -131,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,43 +143,44 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "19c56229720e87da",
+  "active": "e76e19de5e71cb5c",
   "lastOpenFiles": [
-    "【本周更新】/跌打酒.md",
-    "【本周更新】/饭菜门.md",
-    "【本周更新】/天基通信.md",
-    "【本周更新】/乐观主义.md",
-    "【本周更新】/龙门教.md",
-    "【本周更新】/万金油.md",
-    "【本周更新】/面向交接工作.md",
-    "【本周更新】/强人所难.md",
-    "【本周更新】/缅甸停战.md",
-    "待归档/通胀义务.md",
-    "待归档/实事求是.md",
-    "待归档/见义勇为的福利 1.md",
-    "待归档/注目事实 2 1.md",
-    "沙海拾金/泛讨论/泛讨论_北约军事委员会.md",
-    "待归档/见义勇为的福利.md",
-    "待归档/武麻将.md",
-    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/拖拉机.md",
-    "待归档/实力为本.md",
-    "待归档/始祖鸟.md",
-    "待归档/包围 2.md",
-    "README.md",
-    "沙海拾金/泛讨论/泛讨论_贝叶经.md",
-    "沙海拾金/泛讨论/泛讨论_读书.md",
-    "【本周更新】/2024-01-18妈妈老了很多怎么办？.md",
-    "【本周更新】/2024-01-17害人之心不可有，防人之心不可无，防的那个“度”在哪里_.md",
-    "www.zhihu.com/question/634890549/answer",
-    "www.zhihu.com/question/634890549",
-    "www.zhihu.com/question",
-    "www.zhihu.com",
-    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/OpenAI",
-    "Sth-Matters/【文章目录】/【0 - 总类】/000 - 特藏 - 致读者",
-    "Sth-Matters/【文章目录】/【0 - 总类】",
-    "Sth-Matters/【文章目录】",
-    "Sth-Matters",
-    "Sth-Matters/【文章目录】/【1 - 哲学类】/100 - 哲学总论/论哲学",
+    "沙海拾金/泛讨论/泛讨论_不可靠猜测.md",
+    "沙海拾金/泛讨论/泛讨论_Gap year.md",
+    "【本周更新】/面子.md",
+    "【本周更新】/自古以来.md",
+    "【本周更新】/保密要求.md",
+    "【本周更新】/凯特王妃.md",
+    "【本周更新】/三战.md",
+    "【本周更新】/上流社会.md",
+    "【本周更新】/典守者难辞其咎.md",
+    "【本周更新】/军用地图.md",
+    "【本周更新】/基本饮水权.md",
+    "【本周更新】/好不风光.md",
+    "【本周更新】/最佳徒手圆.md",
+    "【本周更新】/步坦协同.md",
+    "【本周更新】/没用的眼泪.md",
+    "【本周更新】/短标题.md",
+    "【本周更新】/祖坟青烟.md",
+    "【本周更新】/第一口奶.md",
+    "【本周更新】/行业纵览.md",
+    "【本周更新】/跛刘禅.md",
+    "【本周更新】/金钱爆.md",
+    "待归档/Gaze.md",
+    "待归档/看不见的喷火龙.md",
+    "待归档/瑜不掩瑕.md",
+    "md/瑜不掩瑕.md",
+    "md/滴滴.md",
+    "md/N",
+    "md",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/通信工程",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/知乎",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/火箭",
+    "md/Nell",
+    "Nell",
+    "md/Nell",
+    "md/Nell",
+    "创业",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
     "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
