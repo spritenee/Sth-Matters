@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f475afec192109c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【本周更新】/wait and see.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +44,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 22.857142857142858,
+        "dimension": 22.857142857142854,
         "children": [
           {
             "id": "7569597966c86526",
@@ -61,7 +74,7 @@
       {
         "id": "5cddf796add1364e",
         "type": "tabs",
-        "dimension": 77.14285714285715,
+        "dimension": 77.14285714285714,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待归档/Aaron 1.md",
+                "file": "【本周更新】/wait and see.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +156,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "f0041a7b61b56d00",
+  "active": "5f475afec192109c",
   "lastOpenFiles": [
+    "Pasted image 20240525150404.png",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/190 - 伦理学总论/没伦理.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/190 - 伦理学总论/乱伦.md",
+    "沙海拾金/泛讨论/泛讨论_你说说.md",
+    "【文章目录】/AI服务 - 素问SOOON.AI/给女儿的信.md",
+    "【文章目录】/AI服务 - 素问SOOON.AI/终极目的.md",
+    "【文章目录】/AI服务 - 素问SOOON.AI/素问 sooon.ai Q&A.md",
+    "【文章目录】/AI服务 - 素问SOOON.AI/同问.md",
+    "【本周更新】/后悔酱.md",
+    "【本周更新】/先谈后定.md",
+    "【本周更新】/wait and see.md",
     "待归档/合理的艺术.md",
     "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/克制真爱.md",
     "【文章目录】/【10 - 专题类】/杂论/案例库.md",
@@ -160,17 +184,6 @@
     "【文章目录】/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/汽车/Island Hopper.md",
     "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/惩戒的资格.md",
     "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/参天.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/态度与伦理/一体两面.md",
-    "【本周更新】/先谈后定.md",
-    "【本周更新】/wait and see.md",
-    "【本周更新】/后悔酱.md",
-    "【本周更新】/味精炒鸡精.md",
-    "【本周更新】/坐脸虫.md",
-    "【本周更新】/愚蠢之为物也.md",
-    "【本周更新】/挖机.md",
-    "【本周更新】/易守难攻.md",
-    "【本周更新】/释放攻击性.md",
-    "待归档/万人大裁员.md",
     "md/N",
     "md/N",
     "md",
